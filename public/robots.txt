@@ -1,0 +1,10 @@
+# robots.txt for Zentriq Trading Bot
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://zentriq.com/sitemap.xml
+
+# Disallow admin/internal pages
+Disallow: /api/
+Disallow: /_next/
